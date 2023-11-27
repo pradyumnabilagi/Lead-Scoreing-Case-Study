@@ -1,2 +1,2 @@
-# Lead-Scoreing-Case-Study
+# Lead-Scoring-Case-Study
 This is Case Study Lead Scoring
